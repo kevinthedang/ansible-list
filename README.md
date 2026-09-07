@@ -14,8 +14,6 @@ Hosts are defined in [`hosts.ini`](/hosts.ini).
 Current groups:
 
 - `pi_cluster`: `pi1.local` through `pi4.local`
-- `proxmox`: planned
-- `ubuntu_server`: planned
 
 ### Requirements
 
