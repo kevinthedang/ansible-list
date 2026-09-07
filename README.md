@@ -9,11 +9,15 @@ This repository contains Ansible inventory and playbooks for managing home lab s
 
 ### Inventory
 
-Hosts are defined in [`hosts.ini`](/hosts.ini).
+Example inventory shown in [`example.inventory.ini`](/example.inventory.ini).
 
 Current groups:
 
 - `pi_cluster`: `pi1.local` through `pi4.local`
+
+### Tasks
+
+* [Docker Install](./tasks/docker.yml)
 
 ### Requirements
 
